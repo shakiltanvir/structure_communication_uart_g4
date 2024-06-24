@@ -1,0 +1,4 @@
+../Core/Inc/uartcom/uartcom.c:34:6:HAL_UARTEx_RxEventCallback	2
+../Core/Inc/uartcom/uartcom.c:64:6:sendData	1
+../Core/Inc/uartcom/uartcom.c:78:10:calculateChecksum	1
+../Core/Inc/uartcom/uartcom.c:88:6:uartcomInit	1
